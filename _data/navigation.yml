@@ -1,25 +1,25 @@
 # main links
 main:
-  - title: "Donate"
+  - title: "Донирај"
     url: /donate
-  - title: "Home"
+  - title: "Кућа"
     url: https://cfw.guide/
 
 side:
-  - title: Guide
+  - title: Воидч
     children:
-      - title: "Get Started"
+      - title: "Почни"
         url: /guide/get-started/
-      - title: "Updating to 3.60"
+      - title: "Надоградња до 3.60"
         url: /guide/updating-to-3.60/
-      - title: "Installing HENkaku"
+      - title: "Инсталиранње HENkaku"
         url: /guide/installing-henkaku/
-      - title: "Installing HENKaku Ensō"
+      - title: "Инсталиранње HENKaku Ensō"
         url: /guide/installing-henkaku-enso/
-      - title: "Blocking Updates"
+      - title: "Блокирање Надоградња"
         url: /guide/blocking-updates/
 
-  - title: More
+  - title: Више
     children:
       - title: "Adrenaline"
         url: /more/adrenaline/
@@ -27,14 +27,14 @@ side:
         url: /more/sd2vita/
       - title: "USBMC"
         url: /more/usbmc/
-      - title: "Enabling Downloads"
+      - title: "Омогућавајући скидање"
         url: /more/enabling-downloads/
       - title: "HENkaku Enso 3.65"
         url: /more/updating-to-henkaku-enso-3.65/
-      - title: "Installing VitaShell to System"
+      - title: "Инсталирање VitaShell до система"
         url: /more/installing-vitashell-to-system/
 
-  - title: Help
+  - title: Помоћ
     children:
       - title: "FAQ"
         url: /help/faq/
